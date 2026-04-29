@@ -100,8 +100,8 @@ UPDATE_FILE_URL = "https://raw.githubusercontent.com/husbananjum/m5core-s3-UIMET
 
 
 MQTT_CLIENT_ID = serial
-#MQTT_BROKER = '192.168.40.5'
-MQTT_BROKER = 'scada.utopia.pk'
+MQTT_BROKER = '192.168.87.11'
+#MQTT_BROKER = 'scada.utopia.pk'
 MQTT_PORT = 1883
 MQTT_USER = 'utopia'
 MQTT_PASSWORD = 'utopia01'
